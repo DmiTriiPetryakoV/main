@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "category": "gaming-mousepads",
+  "products": [
+    {
+      "id": 1,
+      "name": "SteelSeries QcK Heavy",
+      "image": "/main/public/kovrik/steelserias.png",
+      "price": 2999,
+      "stock": 20,
+      "specs": {
+        "size": "450x400x6mm",
+        "material": "Ткань",
+        "surface": "Гладкая",
+        "base": "Резиновая"
+      }
+    },
+    {
+      "id": 2,
+      "name": "HyperX Fury S Pro XL",
+      "image": "/main/public/kovrik/hyperkovrik.png",
+      "price": 3499,
+      "stock": 25,
+      "specs": {
+        "size": "900x420x4mm",
+        "material": "Ткань",
+        "surface": "Гладкая",
+        "base": "Резиновая"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Corsair MM700 RGB",
+      "image": "/main/public/kovrik/corsair.png",
+      "price": 8999,
+      "stock": 6,
+      "specs": {
+        "size": "930x400x4mm",
+        "material": "Ткань с подсветкой",
+        "surface": "Гладкая",
+        "base": "Резиновая"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Glorious 3XL Extended",
+      "image": "/main/public/kovrik/glorius.png",
+      "price": 4999,
+      "stock": 15,
+      "specs": {
+        "size": "1219x610x3mm",
+        "material": "Ткань",
+        "surface": "Гладкая",
+        "base": "Резиновая"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Zowie G-SR",
+      "image": "/main/public/kovrik/zowie.png",
+      "price": 4499,
+      "stock": 10,
+      "specs": {
+        "size": "480x400x3mm",
+        "material": "Ткань",
+        "surface": "Гладкая",
+        "base": "Резиновая"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Roccat Taito Control",
+      "image": "/main/public/kovrik/roccat.png",
+      "price": 2499,
+      "stock": 30,
+      "specs": {
+        "size": "450x400x2mm",
+        "material": "Ткань",
+        "surface": "Шероховатая",
+        "base": "Резиновая"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "status": "success",
+  "category": "gaming-microphones",
+  "products": [
+    {
+      "id": 1,
+      "name": "HyperX QuadCast S",
+      "image": "https://example.com/images/quadcast.jpg",
+      "price": 12999,
+      "stock": 12,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Стерео, кардиоидный, всенаправленный, двунаправленный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Razer Seiren Elite",
+      "image": "https://example.com/images/seiren.jpg",
+      "price": 15999,
+      "stock": 8,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Blue Yeti X",
+      "image": "https://example.com/images/yeti-x.jpg",
+      "price": 17999,
+      "stock": 6,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный, стерео, всенаправленный, двунаправленный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Elgato Wave:3",
+      "image": "https://example.com/images/wave3.jpg",
+      "price": 13999,
+      "stock": 10,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный",
+        "frequency": "70Hz–20kHz",
+        "connection": "USB-C"
+      }
+    },
+    {
+      "id": 5,
+      "name": "RODE NT-USB Mini",
+      "image": "https://example.com/images/rode-nt.jpg",
+      "price": 8999,
+      "stock": 15,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB-C"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Audio-Technica AT2020USB+",
+      "image": "https://example.com/images/at2020.jpg",
+      "price": 14999,
+      "stock": 7,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Fifine K669B",
+      "image": "https://example.com/images/fifine.jpg",
+      "price": 3999,
+      "stock": 25,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Maono HD300",
+      "image": "https://example.com/images/maono.jpg",
+      "price": 6999,
+      "stock": 18,
+      "specs": {
+        "type": "Конденсаторный",
+        "polar_pattern": "Кардиоидный",
+        "frequency": "20Hz–20kHz",
+        "connection": "USB, XLR"
+      }
+    }
+  ]
+}

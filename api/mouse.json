@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "category": "gaming-mice",
+  "products": [
+    {
+      "id": 1,
+      "name": "Razer Viper V2 Pro",
+      "image": "/main/public/mouse/razerv3.png",
+      "price": 12999,
+      "stock": 15,
+      "specs": {
+        "sensor": "Focus Pro 30K",
+        "dpi": 30000,
+        "buttons": 8,
+        "weight": 58
+      }
+    },
+    {
+      "id": 2,
+      "name": "Logitech G Pro X Superlight",
+      "image": "/main/public/mouse/logitechlite.png",
+      "price": 14999,
+      "stock": 12,
+      "specs": {
+        "sensor": "HERO 25K",
+        "dpi": 25600,
+        "buttons": 5,
+        "weight": 63
+      }
+    },
+    {
+      "id": 3,
+      "name": "SteelSeries Aerox 5",
+      "image": "/main/public/mouse/steelserias.png",
+      "price": 8999,
+      "stock": 8,
+      "specs": {
+        "sensor": "TrueMove Air",
+        "dpi": 18000,
+        "buttons": 9,
+        "weight": 74
+      }
+    },
+    {
+      "id": 4,
+      "name": "Glorious Model O Wireless",
+      "image": "/main/public/mouse/model0.png",
+      "price": 7999,
+      "stock": 20,
+      "specs": {
+        "sensor": "BAMF",
+        "dpi": 19000,
+        "buttons": 6,
+        "weight": 69
+      }
+    },
+    {
+      "id": 5,
+      "name": "Razer DeathAdder V2",
+      "image": "/main/public/mouse/razerdead2.png",
+      "price": 10999,
+      "stock": 10,
+      "specs": {
+        "sensor": "Focus Pro 30K",
+        "dpi": 30000,
+        "buttons": 5,
+        "weight": 59
+      }
+    },
+    {
+      "id": 6,
+      "name": "ASUS ROG Keris Wireless",
+      "image": "/main/public/mouse/asus.png",
+      "price": 6999,
+      "stock": 18,
+      "specs": {
+        "sensor": "PAW3335",
+        "dpi": 16000,
+        "buttons": 6,
+        "weight": 79
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "status": "success",
+  "category": "gaming-keyboards",
+  "products": [
+    {
+      "id": 1,
+      "name": "Razer BlackWidow V4 Pro",
+      "image": "/main/public/keyboard/razer.png",
+      "price": 18999,
+      "stock": 7,
+      "specs": {
+        "switch": "Razer Green Mechanical",
+        "layout": "Full-size",
+        "rgb": true,
+        "connection": "USB-C, Bluetooth, 2.4GHz"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Logitech G Pro X TKL",
+      "image": "/main/public/keyboard/logitechpro.png",
+      "price": 14999,
+      "stock": 10,
+      "specs": {
+        "switch": "GX Blue Clicky",
+        "layout": "Tenkeyless",
+        "rgb": true,
+        "connection": "USB-C"
+      }
+    },
+    {
+      "id": 3,
+      "name": "SteelSeries Apex Pro TKL",
+      "image": "/main/public/keyboard/last.png",
+      "price": 16999,
+      "stock": 5,
+      "specs": {
+        "switch": "OmniPoint Adjustable",
+        "layout": "Tenkeyless",
+        "rgb": true,
+        "connection": "USB-C"
+      }
+    },
+    {
+      "id": 4,
+      "name": "HyperX Alloy Origins 65",
+      "image": "/main/public/keyboard/hyperx.png",
+      "price": 8999,
+      "stock": 15,
+      "specs": {
+        "switch": "HyperX Red Linear",
+        "layout": "65%",
+        "rgb": true,
+        "connection": "USB-C"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Corsair K100 RGB",
+      "image": "/main/public/keyboard/corsair.png",
+      "price": 21999,
+      "stock": 3,
+      "specs": {
+        "switch": "OPX Optical",
+        "layout": "Full-size",
+        "rgb": true,
+        "connection": "USB-C"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Keychron K8 Pro",
+      "image": "/main/public/keyboard/keyrochn.png",
+      "price": 7999,
+      "stock": 20,
+      "specs": {
+        "switch": "Gateron Red",
+        "layout": "TKL",
+        "rgb": true,
+        "connection": "USB-C, Bluetooth"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Roccat Vulcan TKL Pro",
+      "image": "/main/public/keyboard/rocat.png",
+      "price": 12999,
+      "stock": 8,
+      "specs": {
+        "switch": "Titan Optical",
+        "layout": "Tenkeyless",
+        "rgb": true,
+        "connection": "USB-C"
+      }
+    }
+  ]
+}
