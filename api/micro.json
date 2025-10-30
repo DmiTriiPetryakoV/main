@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "HyperX QuadCast S",
-      "image": "https://example.com/images/quadcast.jpg",
+      "image": "/main/public/micro/hyperx.png",
       "price": 12999,
       "stock": 12,
       "specs": {
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "Razer Seiren Elite",
-      "image": "https://example.com/images/seiren.jpg",
+      "image": "/main/public/micro/razer.png",
       "price": 15999,
       "stock": 8,
       "specs": {
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "name": "Blue Yeti X",
-      "image": "https://example.com/images/yeti-x.jpg",
+      "image": "/main/public/micro/blueyeti.png",
       "price": 17999,
       "stock": 6,
       "specs": {
@@ -44,7 +44,7 @@
     {
       "id": 4,
       "name": "Elgato Wave:3",
-      "image": "https://example.com/images/wave3.jpg",
+      "image": "/main/public/micro/elgato.png",
       "price": 13999,
       "stock": 10,
       "specs": {
@@ -57,7 +57,7 @@
     {
       "id": 5,
       "name": "RODE NT-USB Mini",
-      "image": "https://example.com/images/rode-nt.jpg",
+      "image": "/main/public/micro/rode.png",
       "price": 8999,
       "stock": 15,
       "specs": {
@@ -70,7 +70,7 @@
     {
       "id": 6,
       "name": "Audio-Technica AT2020USB+",
-      "image": "https://example.com/images/at2020.jpg",
+      "image": "/main/public/micro/audio.png",
       "price": 14999,
       "stock": 7,
       "specs": {
@@ -83,7 +83,7 @@
     {
       "id": 7,
       "name": "Fifine K669B",
-      "image": "https://example.com/images/fifine.jpg",
+      "image": "/main/public/micro/fifine.png",
       "price": 3999,
       "stock": 25,
       "specs": {
@@ -91,19 +91,6 @@
         "polar_pattern": "Кардиоидный",
         "frequency": "20Hz–20kHz",
         "connection": "USB"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Maono HD300",
-      "image": "https://example.com/images/maono.jpg",
-      "price": 6999,
-      "stock": 18,
-      "specs": {
-        "type": "Конденсаторный",
-        "polar_pattern": "Кардиоидный",
-        "frequency": "20Hz–20kHz",
-        "connection": "USB, XLR"
       }
     }
   ]
