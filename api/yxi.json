@@ -1,0 +1,118 @@
+{
+  "status": "success",
+  "category": "gaming-headsets",
+  "products": [
+    {
+      "id": 1,
+      "name": "SteelSeries Arctis Nova Pro",
+      "image": "/main/public/yxi/stelseriasyxi.png",
+      "price": 24999,
+      "stock": 8,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless / Bluetooth / 3.5mm",
+        "microphone": "Складной с шумоподавлением",
+        "frequency": "10Hz–22kHz",
+        "features": "Active Noise Cancellation, Sonar Audio Software"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Razer BlackShark V2 Pro",
+      "image": "/main/public/yxi/razeryxi.png",
+      "price": 15999,
+      "stock": 12,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless 2.4GHz",
+        "microphone": "Съемный кардиоидный",
+        "frequency": "12Hz–28kHz",
+        "features": "THX Spatial Audio, Memory Foam Ear Cushions"
+      }
+    },
+    {
+      "id": 3,
+      "name": "HyperX Cloud Alpha Wireless",
+      "image": "/main/public/yxi/hyperxyxi.png",
+      "price": 13999,
+      "stock": 15,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless 2.4GHz",
+        "microphone": "Съемный с шумоподавлением",
+        "frequency": "15Hz–21kHz",
+        "features": "300 часов работы, Dual Chamber Drivers"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Logitech G Pro X Wireless",
+      "image": "/main/public/yxi/logitechyxi.png",
+      "price": 17999,
+      "stock": 10,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless Lightspeed / 3.5mm",
+        "microphone": "Съемный Blue Voice",
+        "frequency": "20Hz–20kHz",
+        "features": "DTS Headphone:X 2.0, PRO-G 50mm Drivers"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Corsair Virtuoso RGB Wireless",
+      "image": "/main/public/yxi/corsauryxi.png",
+      "price": 16999,
+      "stock": 9,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless SLIPSTREAM / Bluetooth / USB",
+        "microphone": "Съемный broadcast-grade",
+        "frequency": "20Hz–40kHz",
+        "features": "Dolby Audio, 50mm Neodymium Drivers"
+      }
+    },
+    {
+      "id": 6,
+      "name": "ASUS ROG Delta S Wireless",
+      "image": "/main/public/yxi/asusyxi.png",
+      "price": 14999,
+      "stock": 11,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless 2.4GHz / Bluetooth / USB-C",
+        "microphone": "Съемный AI Beamforming",
+        "frequency": "20Hz–40kHz",
+        "features": "ESS Quad-DAC, AI Noise Cancellation"
+      }
+    },
+    {
+      "id": 7,
+      "name": "EPOS H3PRO Hybrid",
+      "image": "/main/public/yxi/eposyxi.png",
+      "price": 19999,
+      "stock": 7,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless / Bluetooth / 3.5mm",
+        "microphone": "Съемный с активным шумоподавлением",
+        "frequency": "10Hz–30kHz",
+        "features": "NoiseGard Adaptive, Flip-to-Mute"
+      }
+    },
+    {
+      "id": 8,
+      "name": "JBL Quantum 910 Wireless",
+      "image": "/main/public/yxi/jbl.png",
+      "price": 15999,
+      "stock": 13,
+      "specs": {
+        "type": "Полноразмерные",
+        "connection": "Wireless / Bluetooth / 3.5mm",
+        "microphone": "Съемный с шумоподавлением",
+        "frequency": "20Hz–40kHz",
+        "features": "QuantumSPHERE 360, Active Noise Cancelling"
+      }
+    }
+  ]
+}
